@@ -4,4 +4,4 @@ version=v.1
 versionCode=1
 author=KeishaXD
 description=Breaking the FPS limit that is locked on your device.
-updatejson=https://raw.githubusercontent.com/KeishaXD/
+updatejson=https://raw.githubusercontent.com/KeishaXD/FPS-Limit-Breaker/main/update.json
