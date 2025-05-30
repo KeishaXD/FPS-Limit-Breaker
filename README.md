@@ -14,10 +14,10 @@ This module may cause:
 3. Device not turning on (dead device)
 4. Hardware damage (if your device can't handle it)
 
-##Notes :
+## Notes :
 Do not force your device if you think it can't handle it. I am not responsible for anything that happens to your device.
 
-##Suggestion if your device can handle games at over 60 FPS:
+## Suggestion if your device can handle games at over 60 FPS:
 
 Combine this module with a gaming module, and if necessary, add a thermal disable module (But if anything happens, I am not responsible).
 
